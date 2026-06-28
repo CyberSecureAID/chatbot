@@ -1,0 +1,3 @@
+Si la plataforma va lenta, borra el caché del navegador o prueba en modo incógnito.
+Los errores de inicio de sesión suelen resolverse restableciendo la contraseña. ¿Te envío el enlace de recuperación?
+Para errores de pago, verifica que tu tarjeta tenga fondos y los datos sean correctos.
